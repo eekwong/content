@@ -1,0 +1,21 @@
+{
+    "name": "GitHub Secrets Detection",
+    "description": "This automation pack detects secrets in your git repository.",
+    "support": "community",
+    "currentVersion": "1.0.0",
+    "author": "Matthew Kwong",
+    "url": "https://live.paloaltonetworks.com/t5/cortex-xsoar-discussions/bd-p/Cortex_XSOAR_Discussions",
+    "email": "",
+    "created": "2020-09-04T08:53:37Z",
+    "categories": [
+        "Utilities"
+    ],
+    "tags": [
+        "git",
+        "secrets",
+        "shift-left"
+    ],
+    "useCases": [],
+    "keywords": [],
+    "githubUser": []
+}
